@@ -1,0 +1,10 @@
+site_name: YouC eStore docs
+nav:
+    - Home: index.md
+    - User Guide: user.md
+    - Developer Guide: 
+      - Overview: overview.md
+      - Frontend Documentation: coding.md
+      - Coding Patterns: patterns.md
+      - Deployment: deployment.md
+      - To-do features: todo.md
